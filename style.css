@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* background-image: url("https://img.freepik.com/free-vector/abstract-technological-background_23-2148897676.jpg?w=1800&t=st=1679570092~exp=1679570692~hmac=58e0e1c6ca6ea46e9289e8433698c64be9b542e49e37b010ebea6c310c6ad58e"); */
+  background:linear-gradient(120deg, #123962, #2754ba, #00aee6, #799eb2, #b1d4e5);
+}
+
+.table-x{
+    display: flex;
+    justify-content: center;
+    /* max-width: 1000rem; */
+}
+
+.table-x>div{
+    width: 80rem;
+}
